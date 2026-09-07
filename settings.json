@@ -1,21 +1,21 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
-    "password": "",
+    "username": "j4a5",
+    "password": "1234",
     "type": "offline"
   },
-  "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+  "server": {Word
+    "ip": "Escolar_1.aternos.me",
+    "port": 45922,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 43.30,
+    "y": 64.00,
+    "z": -23.64
   },
   "utils": {
     "auto-auth": {
